@@ -1,0 +1,30 @@
+
+--- Person 1---
+Name: Laure Championne (33)
+Number of biking exercises: 2
+Number of swimming exercises: 3
+Average duration: 63 min
+
+--- Person 2---
+Name: Penelope Olympique (43)
+Number of biking exercises: 3
+Number of swimming exercises: 2
+Average duration: 89 min
+
+--- Person 3---
+Name: Emilie Jolie (16)
+Number of biking exercises: 2
+Number of swimming exercises: 3
+Average duration: 60 min
+
+--- Biking ---
+Average distance: 177 m
+Average duration: 77 min
+# mountain: 4
+# road: 3
+
+--- Swimming ---
+Average distance: 152 m
+Average duration: 65 min
+# backstroke: 2
+# butterfly: 6
