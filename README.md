@@ -7,4 +7,4 @@ Project's sequence:
 2. The persons should perform several different workouts, which should be saved in a Workout's list.
 3. Statistics regarding the persons and their workouts should be exported in a csv-file (also saved under "Resources")
 
-All these three sequence's steps should be simulated in the main class "WorkoutTracker".
+
